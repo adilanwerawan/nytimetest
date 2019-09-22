@@ -1,7 +1,7 @@
 # Nytimetest-repo
 
 **About The Project**
-This is an NYTimes most popular articles app iOS repo.
+This is the NYTimes most popular articles app iOS repo.
 
 **It uses :**
 
