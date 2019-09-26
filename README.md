@@ -6,6 +6,7 @@ This is the NYTimes most popular articles app iOS repo.
 **It uses :**
 
 •    Swift 4.2
+
 •    Autolayouts
 •    Pods
 •    Storyboards
