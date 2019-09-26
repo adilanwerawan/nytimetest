@@ -58,6 +58,7 @@ To see the **code coverage** there is default xcode navigator named Report navig
 **Folder Structure :**
 
 **You can find..**
+
 •    All the view controllers inside the Controllers folder.
 
 •    All the models inside the Model folder.
